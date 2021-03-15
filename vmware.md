@@ -1,5 +1,5 @@
 
-![rh8_hello_nice_to_see_you_again](../pictures/vmware_redhat8_00.png)
+![rh8_hello_nice_to_see_you_again](./pictures/vmware_redhat8_00.png)
 ![rh8_hello_nice_to_see_you_again](../pictures/vmware_redhat8_01.png)
 ![rh8_hello_nice_to_see_you_again](../pictures/vmware_redhat8_02.png)
 ![rh8_hello_nice_to_see_you_again](../pictures/vmware_redhat8_03.png)
