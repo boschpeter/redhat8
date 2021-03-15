@@ -1,11 +1,13 @@
 # redhat8
 
+
+
 Met nieuwe op ontwikkelaars gerichte functies, zoals containerhulpprogramma's, geavanceerde taalondersteuning en applicatiestromen, 
 is Red Hat Enterprise Linux 8 (RHEL) de meest ontwikkelaarvriendelijke Linux ooit. 
 Red Hat Developer-leden hebben volledige toegang tot RHEL 8-software, documentatie en how-to's.
 Als je bekend bent met Red Hat Enterprise Linux, dan is dit de plek om aan de slag te gaan.
 
-
+![jeuh](.//pictures/redhat_20210315_jeuh.png)
 ````
 Get started on RHEL 8
 Red Hat Enterprise Linux 8 introduces new features that accelerate your application development including installation, coding, tool selection and setup. It includes dozens of runtime languages, compilers, databases, and web and cache servers.
