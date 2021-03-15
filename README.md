@@ -57,3 +57,13 @@ Now try logging into the machine, with:   "ssh 'boscp08@redhat_01'"
 and check to make sure that only the key(s) you wanted were added.
 
 ````
+
+````
+git init
+git config --global credential.helper store
+git config --global user.email "bosch.peter@icloud.com"
+git config --global user.name "boschpeter"
+git config --global user.password "
+
+git config --list
+````
