@@ -30,3 +30,23 @@ For a quick reference to new RHEL 8 commands, download the Red Hat Enterprise Li
  
 
 ````
+
+## ssh-copy-id -i ~/.ssh/id_rsa.pub boscp08@redhat_01
+
+etc/hosts.  redhat_01 192.168.2.15
+````
+osxs-mbp:~ osx$ ssh-copy-id -i ~/.ssh/id_rsa.pub boscp08@redhat_01
+/usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/Users/osx/.ssh/id_rsa.pub"
+The authenticity of host 'redhat_01 (192.168.2.15)' can't be established.
+ECDSA key fingerprint is SHA256:QUqp3PlzOP6L6l1UlaJpiXw02hFxhZvnhyE1szLbVB4.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
+/usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
+boscp08@redhat_01's password: 
+
+Number of key(s) added:        1
+
+Now try logging into the machine, with:   "ssh 'boscp08@redhat_01'"
+and check to make sure that only the key(s) you wanted were added.
+
+````
