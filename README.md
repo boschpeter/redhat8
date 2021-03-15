@@ -33,7 +33,12 @@ For a quick reference to new RHEL 8 commands, download the Red Hat Enterprise Li
 
 ## ssh-copy-id -i ~/.ssh/id_rsa.pub boscp08@redhat_01
 
-etc/hosts.  redhat_01 192.168.2.15
+|file | line|
+|---------------|--------------------|
+|etc/hosts  |redhat_01 192.168.2.15|
+|.bash_profile. |h1='ssh boscp08@redhat_01'|
+
+
 ````
 osxs-mbp:~ osx$ ssh-copy-id -i ~/.ssh/id_rsa.pub boscp08@redhat_01
 /usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/Users/osx/.ssh/id_rsa.pub"
